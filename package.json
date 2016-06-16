@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"aliez": "*",
+		"aliez-mime": "*",
+		"aliez-match": "*",
+		"aliez-response": "*",
+		"aliez-static": "*",
+		"aliez-render": "*"
+	}
+}
